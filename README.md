@@ -3,8 +3,8 @@ We were to utilize all the skills learned in the section lessons from the proper
 im order to best follow Git's workflow.
 
 The skills demonstrated after completion of this project are:
-  HTML boilerpate setup
-  Setting up the main branch as an index.html file
-  Being able to setup a repository on GitHub and using Git effectively
-  Having the proper syntax for headings, images, links, and content on a webpage
+  HTML boilerpate setup,
+  Setting up the main branch as an index.html file,
+  Being able to setup a repository on GitHub and using Git effectively,
+  Having the proper syntax for headings, images, links, and content on a webpage.
   
